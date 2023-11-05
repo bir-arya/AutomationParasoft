@@ -65,7 +65,7 @@ public class Test_LandingPage extends BaseSetup {
 		landing.clickloginButton();
 	}
 	
-	//comment
+	//comment 
 	@Test(priority = 6)
 	public void validateLogoutLink()
 	{
